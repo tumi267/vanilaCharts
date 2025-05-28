@@ -2,10 +2,11 @@ Line Charts
 Bar Charts
 Scatter Plots
 Pie Charts
-Pareto Charts
 Radar Charts
 Area Charts
 Donut Charts
+
+Pareto Charts: Combine a bar chart and a line chart to show the frequency of different categories and their cumulative percentage. 
 
 Boxplots: Provide a visual summary of data distribution, showing median, quartiles, and outliers. 
 
